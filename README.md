@@ -29,7 +29,7 @@
 ![UML](https://img.shields.io/badge/UML-0078D4?style=flat)
 ![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20Ágeis-85EA2D?style=flat&logo=jira&logoColor=black)
 
-⚙️ DevOps & Controle de Versão
+⚙️ Versionamento & Testes.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
