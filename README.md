@@ -58,6 +58,6 @@
 
 ### 📬 Contato
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/iagopacheco01/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://https://www.linkedin.com/in/iago-pacheco1//)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/997994772180504607)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=maildotru&logoColor=white)](mailto:me@iagopacheco.com)
