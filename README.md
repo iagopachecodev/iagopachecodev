@@ -33,7 +33,7 @@
 🖥️ Ambiente & Ferramentas
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![Eclipse STS](https://img.shields.io/badge/Eclipse_STS-6DB33F.svg?logo=eclipseide&logoColor=white)](#)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 
 ---
