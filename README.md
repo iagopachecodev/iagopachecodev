@@ -27,6 +27,7 @@
 📐 Conceitos & Práticas
 
 ![POO](https://img.shields.io/badge/POO%20%2F%20OOP-333333?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-009688?style=flat)
