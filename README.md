@@ -54,8 +54,8 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-five-theta-48.vercel.app/api?username=iagopachecodev&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-five-theta-48.vercel.app/api/top-langs/?username=iagopachecodev&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-five-theta-48.vercel.app/api?username=iagopachecodev&show_icons=true&theme=dark&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-stats-five-theta-48.vercel.app/api/top-langs/?username=iagopachecodev&layout=compact&theme=dark&hide_border=true&v=1" width="48%" />
 </p>
 
 ---
