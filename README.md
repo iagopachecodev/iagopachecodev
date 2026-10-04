@@ -10,10 +10,6 @@
 
 💻 Linguagens & Frameworks
 
-💻 Linguagens & Frameworks
-
-💻 Linguagens & Frameworks
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
