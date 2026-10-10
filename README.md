@@ -1,8 +1,8 @@
 # 💻 Olá, eu sou Iago Pacheco 👋
 
-🎓 Curso técnico em Desenvolvimento de Sistemas em andamento pelo **SENAC**.  
-📘 Atualmente focado em **desenvolvimento back-end**, fortalecendo minha base em **Lógica de Programação**, **Programação Orientada a Objetos (POO)** e **Bancos de Dados** utilizando **C#** e o ecossistema **.NET**.  
-🚀 Meu objetivo é construir projetos sólidos através de desafios práticos, dominar a plataforma .NET e conquistar minha primeira oportunidade como **Estagiário / Desenvolvedor Júnior**.
+🎓 Curso técnico em Desenvolvimento de Sistemas em andamento pelo SENAC.
+📘 Atualmente focado em desenvolvimento back-end, fortalecendo minha base em Lógica de Programação, Programação Orientada a Objetos (POO) e Bancos de Dados utilizando Java e seu ecossistema.
+🚀 Meu objetivo é construir projetos sólidos através de desafios práticos, dominar o ecossistema Java e conquistar minha primeira oportunidade como Estagiário / Desenvolvedor Júnior.
 
 ---
 
