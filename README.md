@@ -10,10 +10,8 @@
 
 💻 Linguagens & Frameworks
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,8 +26,8 @@
 📐 Conceitos & Práticas
 
 ![POO](https://img.shields.io/badge/POO%20%2F%20OOP-333333?style=flat)
-![REST API](https://img.shields.io/badge/REST_API-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat&logo=java&logoColor=white)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-009688?style=flat)
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-444444?style=flat)
 ![UML](https://img.shields.io/badge/UML-0078D4?style=flat)
@@ -45,7 +43,8 @@
 🖥️ Ambiente & Ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)
+![Eclipse STS](https://img.shields.io/badge/Eclipse_STS-6DB33F.svg?logo=eclipseide&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 
