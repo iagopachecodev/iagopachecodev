@@ -21,7 +21,6 @@
 
 🗄️ Bancos de Dados
 
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
