@@ -2,7 +2,7 @@
 
 🎓 Curso técnico em Desenvolvimento de Sistemas em andamento pelo SENAC.
 
-📘 Atualmente focado em desenvolvimento back-end, fortalecendo minha base em Lógica de Programação, Programação Orientada a Objetos (POO) e Bancos de Dados utilizando Java e seu ecossistema.
+📘 Atualmente focado em desenvolvimento back-end, fortalecendo minha base em Lógica de Programação, Programação Orientada a Objetos (POO) e Bancos de Dados utilizando Java e Spring Boot.
 
 🚀 Meu objetivo é construir projetos sólidos através de desafios práticos, dominar o ecossistema Java e conquistar minha primeira oportunidade como Estagiário / Desenvolvedor Júnior.
 
@@ -39,7 +39,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Testes de Software](https://img.shields.io/badge/Testes%20(QA)-333333?style=flat)
 
 🖥️ Ambiente & Ferramentas
