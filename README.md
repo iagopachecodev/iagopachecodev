@@ -43,7 +43,7 @@
 
 🖥️ Ambiente & Ferramentas
 
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 ![Eclipse STS](https://img.shields.io/badge/Eclipse_STS-6DB33F.svg?logo=eclipseide&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
