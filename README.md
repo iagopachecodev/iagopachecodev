@@ -62,5 +62,4 @@
 ### 📬 Contato
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/iago-pacheco1/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/iagopachecodev)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=maildotru&logoColor=white)](mailto:me@iagopacheco.com)
