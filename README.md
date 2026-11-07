@@ -2,9 +2,9 @@
 
 🎓 Curso técnico em Desenvolvimento de Sistemas em andamento pelo **SENAC**.  
 
-📘 Atualmente focado em desenvolvimento back-end, fortalecendo minha base em Lógica de Programação, Programação Orientada a Objetos (POO) e Bancos de Dados utilizando Java e Spring Boot.
+📘 Atualmente focado em **desenvolvimento back-end**, fortalecendo minha base em **Lógica de Programação**, **Programação Orientada a Objetos (POO)** e **Bancos de Dados** utilizando **C#** e o ecossistema **.NET**.  
 
-🚀 Meu objetivo é construir projetos sólidos através de desafios práticos, dominar o ecossistema Java e conquistar minha primeira oportunidade como Estagiário / Desenvolvedor Júnior.
+🚀 Meu objetivo é construir projetos sólidos através de desafios práticos, dominar a plataforma .NET e conquistar minha primeira oportunidade como **Estagiário / Desenvolvedor Júnior**.
 
 ---
 
@@ -12,8 +12,10 @@
 
 💻 Linguagens & Frameworks
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -39,14 +41,13 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Testes de Software](https://img.shields.io/badge/Testes%20(QA)-333333?style=flat)
 
 🖥️ Ambiente & Ferramentas
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-![Eclipse STS](https://img.shields.io/badge/Eclipse_STS-6DB33F.svg?logo=eclipseide&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
