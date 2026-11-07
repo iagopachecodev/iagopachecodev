@@ -30,8 +30,8 @@
 📐 Conceitos & Práticas
 
 ![POO](https://img.shields.io/badge/POO%20%2F%20OOP-333333?style=flat)
-![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat&logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-009688?style=flat)
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-444444?style=flat)
 ![UML](https://img.shields.io/badge/UML-0078D4?style=flat)
