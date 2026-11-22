@@ -28,6 +28,10 @@
 📐 Conceitos & Práticas
 
 ![POO](https://img.shields.io/badge/POO%20%2F%20OOP-333333?style=flat)
+![REST API](https://img.shields.io/badge/REST%20API-0A66C2)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-555555)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-555555)
 ![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat&logo=java&logoColor=white)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-009688?style=flat)
@@ -41,11 +45,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Testes de Software](https://img.shields.io/badge/Testes%20(QA)-333333?style=flat)
+![Mockito](https://img.shields.io/badge/Mockito-555555)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 
 🖥️ Ambiente & Ferramentas
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
