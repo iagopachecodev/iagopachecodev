@@ -1,6 +1,6 @@
 # 💻 Olá, eu sou Iago Pacheco 👋
 
-### Desenvolvedor Back-End Java em formação | Spring Boot
+### Desenvolvedor Back-End Java / Spring Boot em formação
 
 
 🎓 Curso técnico em Desenvolvimento de Sistemas em andamento pelo **SENAC**.
