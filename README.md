@@ -5,7 +5,7 @@
 
 🎓 Curso técnico em Desenvolvimento de Sistemas em andamento pelo **SENAC**.
 
-📘 Atualmente focado em desenvolvimento back-end, fortalecendo minha base em Lógica de Programação, Programação Orientada a Objetos (POO) e Bancos de Dados utilizando Java e Spring Boot.
+📘 Fortalecendo minha base em Lógica de Programação, Programação Orientada a Objetos (POO) e Bancos de Dados.
 
 🚀 Meu objetivo é construir projetos sólidos através de desafios práticos, dominar o ecossistema Java e desenvolver aplicações eficientes e escaláveis com foco em APIs RESTful e persistência de dados.
 
