@@ -31,6 +31,7 @@
 
 ![POO](https://img.shields.io/badge/POO%20%2F%20OOP-333333?style=flat)
 ![REST API](https://img.shields.io/badge/REST_API-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-009688?style=flat)
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-444444?style=flat)
@@ -48,9 +49,11 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![dotnet CLI](https://img.shields.io/badge/dotnet%20CLI-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 ---
 
